@@ -25,7 +25,6 @@ Day 1, August 3
 
 ### Working with spatial data
 1. Field level collection and remote sensing imagery <- in the context of GIS
-2. Tool stack - Collect, Process, Visualize
 
 ### Discussion and installing softwares
 
