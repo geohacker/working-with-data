@@ -36,6 +36,8 @@ Day 2, August 4
 ### Tools and methods of data collection
 1. Survey of all kinds of data - social and ecological
 2. GPS technology - History, satellites, coverage, devices, restrictions. Crowdsourcing - mobile, social media. Web/paper based forms, interviews. Online Petitions, campaigns.
+3. Ushahidi, Google Public Alerts, Sahana, Humanitarian OpenStreetMap team.
+4. Common Alerting Protocol
 
 ### Tools for data visualisation
 1. http://selection.datavisualization.ch/
