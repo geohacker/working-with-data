@@ -30,25 +30,35 @@ Day 1, August 3
 
 Day 2, August 4
 ----------------
+
 ### What is data visualisation?
+
 ### Tools and methods of data collection
 1. Survey of all kinds of data - social and ecological
 2. GPS technology - History, satellites, coverage, devices, restrictions. Crowdsourcing - mobile, social media. Web/paper based forms, interviews. Online Petitions, campaigns.
+
 ### Tools for data visualisation
 1. http://selection.datavisualization.ch/
+
 ### Tools for geo-spatial visualisation
 1. GRASS, QGIS, GeoCommons, Google stack
 2. Web map paradigms, tiles, tile servers, map style sheets. TileMill, MapBox, Geocommons
 
 Day 3, August 5
 ----------------
+
 ### Using a GPS device
 1. History, satellites, coverage, devices, restrictions
 2. Operational instructions.
+
 ### Mapping Session.
+
 ### OpenStreetMap - Collect, Edit, Consume.
 1. OSM, Potlach, JOSM, Walking Papers, Visualization.
+
 ### Google Map Maker, Google Earth, Google Maps.
 1. Using GoogleMaps to create maps with custom markers, MapMapker and annotating Google Maps, Google Earth 
+
 ### GIS and geo-visualisation
+
 ### Web-based data visualisation
