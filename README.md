@@ -68,4 +68,4 @@ Day 3, August 5
 ### Web-based data visualisation
 
 * * *
-All the slides and the associated data are under CC-BY-SA
+All the slides and the associated data are under CC-BY-NC-SA
