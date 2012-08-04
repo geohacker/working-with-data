@@ -46,6 +46,8 @@ Day 2, August 4
 1. GRASS, QGIS, GeoCommons, Google stack
 2. Web map paradigms, tiles, tile servers, map style sheets. TileMill, MapBox, Geocommons
 
+### Hands-on: QGIS, GeoCommons, Google Refine, Gnumeric, Inkscape
+
 Day 3, August 5
 ----------------
 
