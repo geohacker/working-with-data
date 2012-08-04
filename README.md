@@ -66,3 +66,6 @@ Day 3, August 5
 ### GIS and geo-visualisation
 
 ### Web-based data visualisation
+
+* * *
+All the slides and the associated data are under CC-BY-SA
